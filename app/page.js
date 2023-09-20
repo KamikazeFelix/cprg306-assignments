@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Student from './StudentInfo';
-import Page from './Week2/page';
+import Page from './week2/page';
 
 export default function Home() {
   return (
