@@ -14,7 +14,10 @@ export default function Home() {
       <li className='flex flex-col items-center'><Link href= "week3">Item-List (week3) </Link></li>
       <br />
       <li className='flex flex-col items-center'><Link href= "week4">Add New Items (week4)</Link></li>
+      <br />
+      <li className='flex flex-col items-center'><Link href="week5">Sort Shopping Items(week5)</Link></li>
       </div>
+      
     </main>
   );
 }
