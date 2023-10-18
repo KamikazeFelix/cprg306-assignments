@@ -7,6 +7,7 @@ export default function Page() {
           New Item
         </h1>
         <Newitem />
+        
       </main>
     );
 }
