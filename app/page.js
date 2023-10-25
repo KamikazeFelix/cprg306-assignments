@@ -18,6 +18,8 @@ export default function Home() {
       <li className='flex flex-col items-center'><Link href="week5">Sort Shopping Items(week5)</Link></li>
       <br />
       <li className='flex flex-col items-center'><Link href="week6">Add New List and Sort(week6)</Link></li>
+      <br />
+      <li className='flex flex-col items-center'><Link href="week7">(week7)</Link></li>
       </div>
 
     </main>
