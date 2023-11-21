@@ -22,6 +22,9 @@ export default function Home() {
       <li className='flex flex-col items-center'><Link href="week7">(week7)</Link></li>
       <br />
       <li className='flex flex-col items-center'><Link href="week8">(week8)</Link></li>
+      <br />
+      <li className='flex flex-col items-center'><Link href="week8">(week10)</Link></li>
+
       </div>
 
     </main>
